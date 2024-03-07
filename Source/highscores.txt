@@ -1,0 +1,5 @@
+hola 70
+ola 10
+AAA 0
+AAA 0
+AAA 0
